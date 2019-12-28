@@ -1,2 +1,2 @@
 # brunofbmatos.github.io
-Personal Website http://brunofbmatos.github.io/
+Personal Website https://brunofbmatos.github.io/
